@@ -1,0 +1,127 @@
+.imagem1{
+    width: 750px;
+}
+
+.menu{
+    color: black;
+    text-decoration: none;
+    width: 35px;
+    opacity: 0.5;
+}
+
+.menu:hover{
+    opacity: 1;
+}
+
+
+.mdl-layout__header{
+    position: fixed;
+}
+
+#secao-explicando{
+    padding: 64px 0 32px 0;
+    background-color: #333333;
+}
+
+#secao-explicando .titulo-explicacao{
+    color: #ffff;
+    text-align: center;
+}
+
+.explicacao p{
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+    background-color:#d6d6d6;
+    font-size: 18px;
+    padding: 16px;
+}
+
+.titulo-menu{
+    margin-left: 18px;
+}
+
+.titulo-materiais{
+    color: white;
+}
+
+#secao-materiais{
+    background-color: #333333;
+    padding: 64px 0 32px 0;
+    text-align: center;
+}
+
+.materiais p{
+    margin-left: 300px;
+    margin-right: 300px;
+    padding: 16px;
+    background-color: #d6d6d6;
+    font-size: 18px;
+}
+
+#secao-instalar{
+    padding: 64px 0 32px 0;
+    text-align: center;
+}
+
+.titulo-instalar{
+    text-align: center;
+}
+
+.descricao{
+    font-size: 22px;
+}
+
+#botao{
+    background-color: #333333;
+    padding: 22px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+#home img{
+    width: 400px;
+}
+
+#home{
+    padding: 64px 0 32px 0;
+}
+
+.titulo-home{
+    text-align: center;
+}
+
+.home-geral{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+
+.home-geral p{
+    font-size: 18px;
+    text-align: center;
+    background-color: #d6d6d6;
+}
+
+.link{
+    color: blueviolet;
+    text-decoration: purple;
+}
+
+#nome1{
+    margin: 13px;
+    padding: 12px;
+}
+
+#foto img{
+    width: 200px;
+    opacity: 0.5;
+    border-radius: 200px;
+    border: solid 2px rgb(206, 173, 25);
+}
+
+#foto img:hover{
+    opacity: 1;
+    width: 230px;
+}
+
